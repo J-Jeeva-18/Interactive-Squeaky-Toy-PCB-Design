@@ -29,4 +29,4 @@ This repository contains the PCB design of an Interactive Squeaky Toy developed 
 ## Author
 Jeeva J
 
-Electrical and Electronics Engineering (EEE) Student
+Electrical and Electronics Engineering (EEE) Student.
